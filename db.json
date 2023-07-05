@@ -1,5 +1,5 @@
 {
-  "states" : [
+  "states": [
     {
       "name": "Andaman and Nicobar Islands",
       "state_code": "AN"
@@ -147,6 +147,19 @@
     {
       "name": "West Bengal",
       "state_code": "WB"
+    }
+  ],
+  "hotels": [
+    {
+      "id": 5,
+      "Country": ",Indonesia",
+      "name": "Tampaksiring, Bali, Indonesia",
+      "url": "https://a0.muscache.com/im/pictures/4a5c629b-9c92-450e-8d8f-995875798838.jpg?im_w=720",
+      "description": "Located just a 20-minute scooter ride from the vibrant centre of Ubud.",
+      "cost": "43201",
+      "title": "Entire cabin hosted by Eco Six Bali",
+      "heading": "Dome - Bamboo Villa in Eco Six Bali",
+      "urls": "https://a0.muscache.com/im/pictures/4a5c629b-9c92-450e-8d8f-995875798838.jpg?im_w=960",
     }
   ]
 }
